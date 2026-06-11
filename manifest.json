@@ -1,0 +1,27 @@
+{
+  "name": "Forex Journal",
+  "short_name": "FX Journal",
+  "description": "Journal de trading Forex — suivi, analyse et statistiques",
+  "start_url": "/Journal-Trading-Forex/",
+  "scope": "/Journal-Trading-Forex/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0f12",
+  "theme_color": "#0d0f12",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/wilfyao-glitch/Journal-Trading-Forex/main/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/wilfyao-glitch/Journal-Trading-Forex/main/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "productivity"],
+  "lang": "fr"
+}
